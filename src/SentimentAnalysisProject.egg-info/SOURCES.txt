@@ -1,0 +1,7 @@
+setup.py
+src/SentimentAnalysisProject.egg-info/PKG-INFO
+src/SentimentAnalysisProject.egg-info/SOURCES.txt
+src/SentimentAnalysisProject.egg-info/dependency_links.txt
+src/SentimentAnalysisProject.egg-info/entry_points.txt
+src/SentimentAnalysisProject.egg-info/requires.txt
+src/SentimentAnalysisProject.egg-info/top_level.txt
