@@ -237,27 +237,6 @@ The model uses:
 3. Add parameters to `params.yaml` if needed
 4. Update tests and documentation
 
-### Code Style
-
-- Follow PEP 8 guidelines
-- Use type hints where appropriate
-- Add docstrings for functions and classes
-- Implement proper error handling
-
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📞 Support
-
 For questions or issues, please open an issue in the repository.
 
 ---
